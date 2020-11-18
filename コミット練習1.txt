@@ -1,7 +1,11 @@
 #include<stdio.h>
-#define NUM 5
+#define NUM 6
 #define DEBUG
 
 int main(void) {
-    
+    int i;
+    int m;
+
+    printf("年齢を記入してください\n");
+
 }
