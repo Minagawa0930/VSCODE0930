@@ -1,7 +1,7 @@
 #include<stdio.h>
 #define DEBUG
 
-int main(void) {
+int main(void) {｝ｌｍｂ；ｌSMB
     int i;
     int m;
 
